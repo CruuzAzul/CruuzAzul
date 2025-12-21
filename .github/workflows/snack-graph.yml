@@ -20,7 +20,7 @@ jobs:
         uses: Platane/snk@master
         id: snake-gif
         with:
-          github_user_name: CruuzAzul
+          github_user_name: mickaelalvs
           gif_out_path: dist/github-contribution-grid-snake.gif
           svg_out_path: dist/github-contribution-grid-snake.svg
 
